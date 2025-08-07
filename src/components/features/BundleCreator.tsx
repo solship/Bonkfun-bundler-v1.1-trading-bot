@@ -1,21 +1,19 @@
 /**
- * 🚀 Solana Bundler Bot - Bundle Creator Component
+ * 📦 Bundle Creator Component
  * 
- * Advanced bundle creation interface for managing multi-wallet trading operations.
- * Provides comprehensive configuration options for token trading with enhanced
- * security, performance monitoring, and user experience features.
+ * This component provides functionality for creating and managing transaction bundles
+ * on the Solana blockchain. It allows users to group multiple transactions together
+ * for efficient execution and cost optimization.
  * 
  * Key Features:
- * - Multi-wallet bundle creation and management
- * - Advanced trading configuration options
- * - Real-time balance monitoring and validation
- * - Performance analytics and transaction tracking
- * - Enhanced security with input validation
- * - Responsive design with accessibility support
+ * - Transaction bundle creation and management
+ * - Bundle optimization and gas estimation
+ * - Batch transaction execution
+ * - Bundle validation and error handling
  * 
  * @author solship
  * @version 2.0.0
- * @repository https://github.com/solship/solana-bundler-bot.git
+ * @repository https://github.com/solship/Bonkfun-bundler-v1.1-trading-bot.git
  */
 
 import React, { useState, useEffect, useCallback, useMemo } from 'react';

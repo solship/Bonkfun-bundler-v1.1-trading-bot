@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/solship/solana-bundler-bot.git"
+    "url": "https://github.com/solship/Bonkfun-bundler-v1.1-trading-bot.git"
   },
   "keywords": [
     "solana",
@@ -18,7 +18,9 @@
     "wallet",
     "bundler",
     "defi",
-    "blockchain"
+    "blockchain",
+    "bot",
+    "multi-wallet"
   ],
   "dependencies": {
     "axios": "^1.6.7",

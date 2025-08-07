@@ -1,17 +1,17 @@
 <div align="center">
   
-  # 🚀 Solana Bundler
+  # 🚀 Solana Bundler Bot
   
-  <img src="https://i.ibb.co/CsWWY7R9/assets-task-01k0c49kr7ffq8xtjcv0308tez-1752754085-img-1.png" alt="Solana Bundler Logo" width="200"/>
+  <img src="https://i.ibb.co/CsWWY7R9/assets-task-01k0c49kr7ffq8xtjcv0308tez-1752754085-img-1.png" alt="Solana Bundler Bot Logo" width="200"/>
 
-  ### Token Deployment & Management Platform
+  ### Advanced Solana Multi-Wallet Trading Platform with Bundle Creation and Management
   
   **[🌐 Visit Website](https://www.bundlerbot.fun/)**
 
   [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
   [![Solana](https://img.shields.io/badge/Solana-v1.14-blueviolet)](https://solana.com/)
   [![React](https://img.shields.io/badge/React-v18.0-blue)](https://reactjs.org/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-v4.9-blue)](https://www.typescriptlang.org/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-v5.0-blue)](https://www.typescriptlang.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v3.3-38bdf8)](https://tailwindcss.com/)
   
 </div>
@@ -33,24 +33,20 @@
 
 ## ✨ Overview
 
-**Solana Bundler** is a powerful token deployment and management tool built for the Solana blockchain. This application provides an intuitive interface for creating, deploying, and managing tokens on various Solana platforms, with advanced features for wallet management and trading operations.
+**Solana Bundler Bot** is a powerful multi-wallet trading platform built for the Solana blockchain. This application provides an intuitive interface for creating, deploying, and managing tokens on various Solana platforms, with advanced features for wallet management, bundle creation, and trading operations.
 
-Whether you're looking to launch your own token, manage multiple wallets, or execute trading strategies across the Solana ecosystem, Solana Bundler offers a comprehensive suite of tools to streamline your workflow.
+Whether you're looking to launch your own token, manage multiple wallets, execute trading strategies, or create transaction bundles across the Solana ecosystem, Solana Bundler Bot offers a comprehensive suite of tools to streamline your workflow.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/29971d32-777f-4819-85af-e8dc7f5cd651" alt="Solana Bundler Dashboard" width="800"/>
+  <img src="https://github.com/user-attachments/assets/29971d32-777f-4819-85af-e8dc7f5cd651" alt="Solana Bundler Bot Dashboard" width="800"/>
   <br/>
-  <sub><b>Solana Bundler Dashboard – Wallets Management</b></sub>
+  <sub><b>Solana Bundler Bot Dashboard – Wallets Management</b></sub>
   <br/><br/>
 
   <img src="https://github.com/user-attachments/assets/9f3b15a0-7958-40d0-9040-311cf514aa31" alt="Wallets Bundler Dashboard" width="800"/>
   <br/>
   <sub><b>Fund Wallet Management</b></sub>
 </div>
-
-
-
-
 
 ## 🌟 Features
 
@@ -66,6 +62,11 @@ Whether you're looking to launch your own token, manage multiple wallets, or exe
 - **Real-Time Balances**: Monitor SOL and token balances across all wallets
 - **Import/Export**: Easily import existing wallets or export wallet data
 
+### 📦 Bundle Creation
+- **Transaction Bundling**: Create and manage transaction bundles for efficient trading
+- **Batch Operations**: Execute multiple transactions in a single bundle
+- **Bundle Optimization**: Optimize transaction ordering and gas usage
+
 ### 📈 Trading Operations
 - **Real-Time Charts**: View token price data via DEXTools integration
 - **Trading Interface**: Buy and sell tokens directly from the application
@@ -78,8 +79,6 @@ Whether you're looking to launch your own token, manage multiple wallets, or exe
 - **Backup & Restore**: Export and import wallet data securely
 
 ## 🖼️ Screenshots
-
-
 
 <div align="center">
   <table>
@@ -110,11 +109,6 @@ Whether you're looking to launch your own token, manage multiple wallets, or exe
   </table>
 </div>
 
-
-
-
-
-
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -122,15 +116,14 @@ Whether you're looking to launch your own token, manage multiple wallets, or exe
 - Node.js (v16.0.0 or higher)
 - npm or yarn
 
-
 ### Installation Steps
 
 ```bash
 # Clone the repository
-git clone https://github.com/0xBundlerBot/Solana_Bundler_Bot.git
+git clone https://github.com/solship/Bonkfun-bundler-v1.1-trading-bot.git
 
 # Navigate to the project directory
-cd Solana_Bundler_Bot
+cd Bonkfun-bundler-v1.1-trading-bot
 
 # Install dependencies
 npm install
@@ -173,6 +166,11 @@ yarn start
 <details>
 <summary>Click to expand advanced features</summary>
 
+#### Bundle Creation
+- Create transaction bundles for efficient trading
+- Optimize transaction ordering and gas usage
+- Execute multiple operations in a single bundle
+
 #### Batch Operations
 - Select multiple wallets and perform actions simultaneously
 - Distribute SOL from dev wallet to fund wallets
@@ -192,7 +190,7 @@ yarn start
 
 ## 🔧 Configuration
 
-Solana Bundler offers various configuration options to customize your experience:
+Solana Bundler Bot offers various configuration options to customize your experience:
 
 ### Network Settings
 - Choose between Mainnet and Devnet
@@ -211,7 +209,7 @@ Solana Bundler offers various configuration options to customize your experience
 
 ## 🔒 Security
 
-Security is a top priority in Solana Bundler:
+Security is a top priority in Solana Bundler Bot:
 
 - **Local Storage**: All wallet data is stored locally in your browser
 - **No Server Communication**: Private keys never leave your device
@@ -224,11 +222,7 @@ Security is a top priority in Solana Bundler:
   <img src="https://github.com/user-attachments/assets/d4a12935-96dd-4c2b-9522-69b52036d17c" alt="Technical Architecture" width="800"/>
 </div>
 
-
-
-
-
-Solana Bundler is built with a modern tech stack:
+Solana Bundler Bot is built with a modern tech stack:
 
 - **Frontend**: React with TypeScript
 - **Styling**: Tailwind CSS with custom theming
@@ -236,11 +230,11 @@ Solana Bundler is built with a modern tech stack:
 - **Blockchain Integration**: Solana Web3.js
 - **Storage**: LocalStorage with optional encryption
 - **Charts**: Lightweight charting libraries
-
+- **Bundle Management**: Custom bundle creation and optimization
 
 ## 🤝 Contributing
 
-We welcome contributions to Solana Bundler! Here's how you can help:
+We welcome contributions to Solana Bundler Bot! Here's how you can help:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -259,19 +253,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support or inquiries, please open an issue on this repository or contact the maintainers:
 
 - **Website**: [https://www.bundlerbot.fun/](https://www.bundlerbot.fun/)
-- **Telegram**: [@solanadevbundler](https://t.me/solanadevbundler)
-- **Email**: support@solanabundler.com
+- **GitHub**: [@solship](https://github.com/solship)
+- **Twitter**: [@solship](https://twitter.com/solship)
+- **Discord**: [@solship](https://discord.com/users/379049538654306306)
 
 ## ⚠️ Disclaimer
 
-**Solana Bundler** is provided for educational and research purposes only. Always do your own research before deploying tokens or executing trades on the Solana blockchain. The developers are not responsible for any financial losses incurred through the use of this software.
+**Solana Bundler Bot** is provided for educational and research purposes only. Always do your own research before deploying tokens or executing trades on the Solana blockchain. The developers are not responsible for any financial losses incurred through the use of this software.
 
 ---
 
 <div align="center">
   
-  Made with ❤️ by [0xBundlerBot]
+  Made with ❤️ by [solship]
   
-
+  [![GitHub](https://img.shields.io/badge/GitHub-solship-black?style=flat-square&logo=github)](https://github.com/solship)
+  [![Twitter](https://img.shields.io/badge/Twitter-@solship-blue?style=flat-square&logo=twitter)](https://twitter.com/solship)
+  [![Discord](https://img.shields.io/badge/Discord-@solship-7289da?style=flat-square&logo=discord)](https://discord.com/users/solship)
   
 </div>

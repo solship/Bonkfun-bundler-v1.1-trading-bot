@@ -14,7 +14,7 @@
  * 
  * @author solship
  * @version 2.0.0
- * @repository https://github.com/solship/solana-bundler-bot.git
+ * @repository https://github.com/solship/Bonkfun-bundler-v1.1-trading-bot.git
  */
 
 import React, { useState, useEffect, useCallback } from 'react';
